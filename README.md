@@ -10,5 +10,7 @@ and deletion of financial paperwork such as tax kosher, rations and the like.
 * The system aids in scheduling and coordinating volunteers' activities to support the needy families. It ensures that there are no duplications of volunteers assigned to the same family and successfully maintains appropriate combinations of volunteers for each family.
 ## Needy Families Management:
 * The software facilitates the registration and updates of information for all needy families. It includes details such as the number of family members, special needs, specific requirements, and contact information.
-*** The software streamlines the organization's operations, minimizes errors in financial management, and effectively coordinates volunteers' efforts. Furthermore,
+
+  
+* The software streamlines the organization's operations, minimizes errors in financial management, and effectively coordinates volunteers' efforts. Furthermore,
    it empowers the organization with the ability to generate reports and perform analyzes to improve future planning and decision-making
