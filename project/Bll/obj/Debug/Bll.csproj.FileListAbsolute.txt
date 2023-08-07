@@ -1,0 +1,146 @@
+M:\חומר מסודר תכנות\c#\project\Bll\bin\Debug\Bll.dll
+M:\חומר מסודר תכנות\c#\project\Bll\bin\Debug\Bll.pdb
+M:\חומר מסודר תכנות\c#\project\Bll\bin\Debug\Dal.dll
+M:\חומר מסודר תכנות\c#\project\Bll\bin\Debug\Dto.dll
+M:\חומר מסודר תכנות\c#\project\Bll\bin\Debug\Dal.pdb
+M:\חומר מסודר תכנות\c#\project\Bll\bin\Debug\Dto.pdb
+M:\חומר מסודר תכנות\c#\project\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+M:\חומר מסודר תכנות\c#\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+M:\חומר מסודר תכנות\c#\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+M:\חומר מסודר תכנות\c#\project\Bll\obj\Debug\Bll.dll
+M:\חומר מסודר תכנות\c#\project\Bll\obj\Debug\Bll.pdb
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\bin\Debug\Bll.dll
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\bin\Debug\Bll.pdb
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\bin\Debug\Dal.dll
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\bin\Debug\Dto.dll
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\bin\Debug\Dal.pdb
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\bin\Debug\Dto.pdb
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\obj\Debug\Bll.dll
+E:\טובי כהן תכנות הכל\C# שב\project\Bll\obj\Debug\Bll.pdb
+K:\אטובי פרויקט\project\Bll\bin\Debug\Bll.dll
+K:\אטובי פרויקט\project\Bll\bin\Debug\Bll.pdb
+K:\אטובי פרויקט\project\Bll\bin\Debug\Dal.dll
+K:\אטובי פרויקט\project\Bll\bin\Debug\Dto.dll
+K:\אטובי פרויקט\project\Bll\bin\Debug\Dal.pdb
+K:\אטובי פרויקט\project\Bll\bin\Debug\Dto.pdb
+K:\אטובי פרויקט\project\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+K:\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+K:\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+K:\אטובי פרויקט\project\Bll\obj\Debug\Bll.dll
+K:\אטובי פרויקט\project\Bll\obj\Debug\Bll.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\OnegShabat.mdf
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\OnegShabat_log.ldf
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\Bll.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\Bll.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\Dal.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\Dto.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\EntityFramework.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\Dal.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\Dal.dll.config
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\Dto.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\bin\Debug\EntityFramework.xml
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\obj\Debug\Bll.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Bll\obj\Debug\Bll.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\obj\Debug\Bll.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\obj\Debug\Bll.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\OnegShabat.mdf
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\OnegShabat_log.ldf
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\Bll.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\Bll.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\AutoMapper.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\Dal.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\Dto.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\EntityFramework.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\Dal.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\Dal.dll.config
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\Dto.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\bin\Debug\EntityFramework.xml
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\OnegShabat.mdf
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\OnegShabat_log.ldf
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\Bll.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\Bll.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\Dal.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\Dto.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\Dal.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\Dal.dll.config
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\Dto.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\obj\Debug\Bll.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Bll\obj\Debug\Bll.pdb
+E:\טובה כהןןן\project\Bll\bin\Debug\OnegShabat.mdf
+E:\טובה כהןןן\project\Bll\bin\Debug\OnegShabat_log.ldf
+E:\טובה כהןןן\project\Bll\bin\Debug\Bll.dll
+E:\טובה כהןןן\project\Bll\bin\Debug\Bll.pdb
+E:\טובה כהןןן\project\Bll\bin\Debug\Dal.dll
+E:\טובה כהןןן\project\Bll\bin\Debug\Dto.dll
+E:\טובה כהןןן\project\Bll\bin\Debug\EntityFramework.dll
+E:\טובה כהןןן\project\Bll\bin\Debug\Dal.pdb
+E:\טובה כהןןן\project\Bll\bin\Debug\Dal.dll.config
+E:\טובה כהןןן\project\Bll\bin\Debug\Dto.pdb
+E:\טובה כהןןן\project\Bll\bin\Debug\EntityFramework.xml
+E:\טובה כהןןן\project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+E:\טובה כהןןן\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+E:\טובה כהןןן\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+E:\טובה כהןןן\project\Bll\obj\Debug\Bll.dll
+E:\טובה כהןןן\project\Bll\obj\Debug\Bll.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\OnegShabat.mdf
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\OnegShabat_log.ldf
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\Bll.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\Bll.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\Dal.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\Dto.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\Dal.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\Dal.dll.config
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\Dto.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\obj\Debug\Bll.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Bll\obj\Debug\Bll.pdb
+E:\חדש טובי\project\Bll\bin\Debug\OnegShabat.mdf
+E:\חדש טובי\project\Bll\bin\Debug\OnegShabat_log.ldf
+E:\חדש טובי\project\Bll\bin\Debug\Bll.dll
+E:\חדש טובי\project\Bll\bin\Debug\Bll.pdb
+E:\חדש טובי\project\Bll\bin\Debug\Dal.dll
+E:\חדש טובי\project\Bll\bin\Debug\Dto.dll
+E:\חדש טובי\project\Bll\bin\Debug\EntityFramework.dll
+E:\חדש טובי\project\Bll\bin\Debug\Dal.pdb
+E:\חדש טובי\project\Bll\bin\Debug\Dal.dll.config
+E:\חדש טובי\project\Bll\bin\Debug\Dto.pdb
+E:\חדש טובי\project\Bll\bin\Debug\EntityFramework.xml
+E:\חדש טובי\project\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+E:\חדש טובי\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+E:\חדש טובי\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+E:\חדש טובי\project\Bll\obj\Debug\Bll.dll
+E:\חדש טובי\project\Bll\obj\Debug\Bll.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\OnegShabat.mdf
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\OnegShabat_log.ldf
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\Bll.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\Bll.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\Dal.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\Dto.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\Dal.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\Dal.dll.config
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\Dto.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\obj\Debug\Bll.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Bll\obj\Debug\Bll.pdb

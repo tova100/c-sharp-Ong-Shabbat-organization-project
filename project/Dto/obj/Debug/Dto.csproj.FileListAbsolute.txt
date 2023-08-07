@@ -1,0 +1,47 @@
+M:\חומר מסודר תכנות\c#\project\Dto\bin\Debug\Dto.dll
+M:\חומר מסודר תכנות\c#\project\Dto\bin\Debug\Dto.pdb
+M:\חומר מסודר תכנות\c#\project\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+M:\חומר מסודר תכנות\c#\project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+M:\חומר מסודר תכנות\c#\project\Dto\obj\Debug\Dto.dll
+M:\חומר מסודר תכנות\c#\project\Dto\obj\Debug\Dto.pdb
+K:\אטובי פרויקט\project\Dto\bin\Debug\Dto.dll
+K:\אטובי פרויקט\project\Dto\bin\Debug\Dto.pdb
+K:\אטובי פרויקט\project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+K:\אטובי פרויקט\project\Dto\obj\Debug\Dto.dll
+K:\אטובי פרויקט\project\Dto\obj\Debug\Dto.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dto\bin\Debug\Dto.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dto\bin\Debug\Dto.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dto\obj\Debug\Dto.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dto\obj\Debug\Dto.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dto\bin\Debug\Dto.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dto\bin\Debug\Dto.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dto\obj\Debug\Dto.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dto\obj\Debug\Dto.pdb
+E:\טובה כהןןן\project\Dto\bin\Debug\Dto.dll
+E:\טובה כהןןן\project\Dto\bin\Debug\Dto.pdb
+E:\טובה כהןןן\project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+E:\טובה כהןןן\project\Dto\obj\Debug\Dto.dll
+E:\טובה כהןןן\project\Dto\obj\Debug\Dto.pdb
+E:\טובה כהןןן\project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Dto\bin\Debug\Dto.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Dto\bin\Debug\Dto.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Dto\obj\Debug\Dto.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Dto\obj\Debug\Dto.pdb
+E:\חדש טובי\project\Dto\bin\Debug\Dto.dll
+E:\חדש טובי\project\Dto\bin\Debug\Dto.pdb
+E:\חדש טובי\project\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+E:\חדש טובי\project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+E:\חדש טובי\project\Dto\obj\Debug\Dto.dll
+E:\חדש טובי\project\Dto\obj\Debug\Dto.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Dto\bin\Debug\Dto.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Dto\bin\Debug\Dto.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Dto\obj\Debug\Dto.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Dto\obj\Debug\Dto.pdb

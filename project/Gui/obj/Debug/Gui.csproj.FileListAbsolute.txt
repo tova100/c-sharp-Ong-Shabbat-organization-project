@@ -1,0 +1,263 @@
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.BasicForm.resources
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.DriverForm.resources
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+M:\חומר מסודר תכנות\c#\project\Gui\bin\Debug\Gui.exe.config
+M:\חומר מסודר תכנות\c#\project\Gui\bin\Debug\Gui.exe
+M:\חומר מסודר תכנות\c#\project\Gui\bin\Debug\Gui.pdb
+M:\חומר מסודר תכנות\c#\project\Gui\bin\Debug\Bll.dll
+M:\חומר מסודר תכנות\c#\project\Gui\bin\Debug\Dto.dll
+M:\חומר מסודר תכנות\c#\project\Gui\bin\Debug\Bll.pdb
+M:\חומר מסודר תכנות\c#\project\Gui\bin\Debug\Dto.pdb
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.exe
+M:\חומר מסודר תכנות\c#\project\Gui\obj\Debug\Gui.pdb
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Gui.exe.config
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Gui.exe
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Gui.pdb
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Bll.dll
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Dto.dll
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Bll.pdb
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Dto.pdb
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.BasicForm.resources
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.exe
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.pdb
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.FormDonors.resources
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.FormFamilies.resources
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.VolanteerFrom.resources
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.DriversForm.resources
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.BasicForm.resources
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.DriversForm.resources
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.FormFamilies.resources
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.VolanteerFrom.resources
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.FormDonors.resources
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.exe
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.pdb
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Gui.exe.config
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Gui.exe
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Gui.pdb
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Bll.dll
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Dto.dll
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Bll.pdb
+E:\טובי כהן תכנות הכל\C# שב\project\Gui\bin\Debug\Dto.pdb
+G:\טובי כהן תכנות הכל\C# שב\project\Gui\obj\Debug\Gui.familAddForm.resources
+K:\אטובי פרויקט\project\Gui\bin\Debug\Gui.exe.config
+K:\אטובי פרויקט\project\Gui\bin\Debug\Gui.exe
+K:\אטובי פרויקט\project\Gui\bin\Debug\Gui.pdb
+K:\אטובי פרויקט\project\Gui\bin\Debug\Bll.dll
+K:\אטובי פרויקט\project\Gui\bin\Debug\Dto.dll
+K:\אטובי פרויקט\project\Gui\bin\Debug\Bll.pdb
+K:\אטובי פרויקט\project\Gui\bin\Debug\Dto.pdb
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.DriversForm.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.familAddForm.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormFamilies.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.VolanteerFrom.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormDonors.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.exe
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.pdb
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.BabicForm.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.AddFormDrivers.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.updateFormFamily.resources
+K:\אטובי פרויקט\project\Gui\obj\Debug\Gui.Volonteer.AddFormVolonteer.resources
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.BabicForm.resources
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.DriversForm.resources
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormFamilies.resources
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.Volonteer.AddFormVolonteer.resources
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.VolanteerFrom.resources
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormDonors.resources
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.exe
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\bin\Debug\Gui.exe.config
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\bin\Debug\Gui.exe
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\bin\Debug\Gui.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\bin\Debug\Bll.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\bin\Debug\Dto.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\bin\Debug\Bll.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\bin\Debug\Dto.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.SuggestedBindingRedirects.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.exe
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.CookerFrom.resources
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormFamilies.resources
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.DriversForm.resources
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormDonors.resources
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.BabicForm.resources
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormHome.resources
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.VolonteerForm.resources
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\OnegShabat.mdf
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\OnegShabat_log.ldf
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Gui.exe.config
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Gui.exe
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Gui.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Bll.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Dto.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\AutoMapper.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Dal.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\EntityFramework.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Bll.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Dto.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Dal.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\Dal.dll.config
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Gui\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\OnegShabat.mdf
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\OnegShabat_log.ldf
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Gui.exe.config
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Gui.exe
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Gui.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Bll.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Dto.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\AutoMapper.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Dal.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Bll.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Dto.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Dal.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\bin\Debug\Dal.dll.config
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.BabicForm.resources
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.CookerFrom.resources
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormFamilies.resources
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.DriversForm.resources
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormDonors.resources
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.FormHome.resources
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.VolonteerForm.resources
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.exe
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Gui\obj\Debug\Gui.pdb
+E:\טובה כהןןן\project\Gui\bin\Debug\Gui.exe.config
+E:\טובה כהןןן\project\Gui\bin\Debug\Gui.exe
+E:\טובה כהןןן\project\Gui\bin\Debug\Gui.pdb
+E:\טובה כהןןן\project\Gui\bin\Debug\Bll.dll
+E:\טובה כהןןן\project\Gui\bin\Debug\Dto.dll
+E:\טובה כהןןן\project\Gui\bin\Debug\Dal.dll
+E:\טובה כהןןן\project\Gui\bin\Debug\AutoMapper.dll
+E:\טובה כהןןן\project\Gui\bin\Debug\Bll.pdb
+E:\טובה כהןןן\project\Gui\bin\Debug\Dto.pdb
+E:\טובה כהןןן\project\Gui\bin\Debug\Dal.pdb
+E:\טובה כהןןן\project\Gui\bin\Debug\Dal.dll.config
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.BabicForm.resources
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.CookerFrom.resources
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.FormFamilies.resources
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.DriversForm.resources
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.FormDonors.resources
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.FormHome.resources
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.VolonteerForm.resources
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.exe
+E:\טובה כהןןן\project\Gui\obj\Debug\Gui.pdb
+E:\טובה כהןןן\project\Gui\bin\Debug\OnegShabat.mdf
+E:\טובה כהןןן\project\Gui\bin\Debug\OnegShabat_log.ldf
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Gui.exe.config
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Gui.exe
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Gui.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Bll.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Dto.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Dal.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\AutoMapper.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Bll.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Dto.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Dal.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\Dal.dll.config
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.BabicForm.resources
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.CookerFrom.resources
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.FormFamilies.resources
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.DriversForm.resources
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.FormDonors.resources
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.FormHome.resources
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.VolonteerForm.resources
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.exe
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\obj\Debug\Gui.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\OnegShabat.mdf
+C:\Users\Home\Desktop\טובה כהןןן\project\Gui\bin\Debug\OnegShabat_log.ldf
+E:\חדש טובי\project\Gui\bin\Debug\Bll.dll
+E:\חדש טובי\project\Gui\bin\Debug\Dto.dll
+E:\חדש טובי\project\Gui\bin\Debug\Dal.dll
+E:\חדש טובי\project\Gui\bin\Debug\AutoMapper.dll
+E:\חדש טובי\project\Gui\bin\Debug\Bll.pdb
+E:\חדש טובי\project\Gui\bin\Debug\Dto.pdb
+E:\חדש טובי\project\Gui\bin\Debug\Dal.pdb
+E:\חדש טובי\project\Gui\bin\Debug\Dal.dll.config
+E:\חדש טובי\project\Gui\obj\Debug\Gui.csprojAssemblyReference.cache
+E:\חדש טובי\project\Gui\obj\Debug\Gui.BabicForm.resources
+E:\חדש טובי\project\Gui\obj\Debug\Gui.CookerFrom.resources
+E:\חדש טובי\project\Gui\obj\Debug\Gui.FormFamilies.resources
+E:\חדש טובי\project\Gui\obj\Debug\Gui.DriversForm.resources
+E:\חדש טובי\project\Gui\obj\Debug\Gui.FormDonors.resources
+E:\חדש טובי\project\Gui\obj\Debug\Gui.FormHome.resources
+E:\חדש טובי\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+E:\חדש טובי\project\Gui\obj\Debug\Gui.VolonteerForm.resources
+E:\חדש טובי\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+E:\חדש טובי\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+E:\חדש טובי\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+E:\חדש טובי\project\Gui\obj\Debug\Gui.exe
+E:\חדש טובי\project\Gui\obj\Debug\Gui.pdb
+E:\חדש טובי\project\Gui\bin\Debug\Gui.exe.config
+E:\חדש טובי\project\Gui\bin\Debug\Gui.exe
+E:\חדש טובי\project\Gui\bin\Debug\Gui.pdb
+E:\חדש טובי\project\Gui\bin\Debug\OnegShabat.mdf
+E:\חדש טובי\project\Gui\bin\Debug\OnegShabat_log.ldf
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\OnegShabat.mdf
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\OnegShabat_log.ldf
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Gui.exe.config
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Gui.exe
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Gui.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Bll.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Dto.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Dal.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\AutoMapper.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Bll.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Dto.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Dal.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\bin\Debug\Dal.dll.config
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.CookerFrom.resources
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.FormFamilies.resources
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.DriversForm.resources
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.FormDonors.resources
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.FormHome.resources
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.Properties.Resources.resources
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.VolonteerForm.resources
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.csproj.CopyComplete
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.exe
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Gui\obj\Debug\Gui.basicForm.resources

@@ -1,0 +1,108 @@
+M:\חומר מסודר תכנות\c#\project\Dal\bin\Debug\Dal.dll
+M:\חומר מסודר תכנות\c#\project\Dal\bin\Debug\Dal.pdb
+M:\חומר מסודר תכנות\c#\project\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+M:\חומר מסודר תכנות\c#\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+M:\חומר מסודר תכנות\c#\project\Dal\obj\Debug\Dal.dll
+M:\חומר מסודר תכנות\c#\project\Dal\obj\Debug\Dal.pdb
+K:\אטובי פרויקט\project\Dal\bin\Debug\Dal.dll
+K:\אטובי פרויקט\project\Dal\bin\Debug\Dal.pdb
+K:\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+K:\אטובי פרויקט\project\Dal\obj\Debug\Dal.dll
+K:\אטובי פרויקט\project\Dal\obj\Debug\Dal.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\OnegShabat.mdf
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\OnegShabat_log.ldf
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\Dal.dll.config
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\Dal.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\Dal.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.xml
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.CopyComplete
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\obj\Debug\Dal.dll
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\obj\Debug\Dal.pdb
+M:\חומר מסודר תכנות\c#\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\obj\Debug\Dal.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\obj\Debug\Dal.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\OnegShabat.mdf
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\OnegShabat_log.ldf
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\Dal.dll.config
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\Dal.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\Dal.pdb
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.xml
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\טובי כהן תכנות הכל\חדששש\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\OnegShabat.mdf
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\OnegShabat_log.ldf
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\Dal.dll.config
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\Dal.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\Dal.pdb
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\obj\Debug\Dal.dll
+C:\Users\HOME\Desktop\אטובי פרויקט\project\Dal\obj\Debug\Dal.pdb
+E:\טובה כהןןן\project\Dal\bin\Debug\OnegShabat.mdf
+E:\טובה כהןןן\project\Dal\bin\Debug\OnegShabat_log.ldf
+E:\טובה כהןןן\project\Dal\bin\Debug\Dal.dll.config
+E:\טובה כהןןן\project\Dal\bin\Debug\Dal.dll
+E:\טובה כהןןן\project\Dal\bin\Debug\Dal.pdb
+E:\טובה כהןןן\project\Dal\bin\Debug\EntityFramework.dll
+E:\טובה כהןןן\project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\טובה כהןןן\project\Dal\bin\Debug\EntityFramework.xml
+E:\טובה כהןןן\project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\טובה כהןןן\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+E:\טובה כהןןן\project\Dal\obj\Debug\Dal.csproj.CopyComplete
+E:\טובה כהןןן\project\Dal\obj\Debug\Dal.dll
+E:\טובה כהןןן\project\Dal\obj\Debug\Dal.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\OnegShabat.mdf
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\OnegShabat_log.ldf
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\Dal.dll.config
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\Dal.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\Dal.pdb
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\obj\Debug\Dal.dll
+C:\Users\Home\Desktop\טובה כהןןן\project\Dal\obj\Debug\Dal.pdb
+E:\חדש טובי\project\Dal\bin\Debug\OnegShabat.mdf
+E:\חדש טובי\project\Dal\bin\Debug\OnegShabat_log.ldf
+E:\חדש טובי\project\Dal\bin\Debug\Dal.dll.config
+E:\חדש טובי\project\Dal\bin\Debug\Dal.dll
+E:\חדש טובי\project\Dal\bin\Debug\Dal.pdb
+E:\חדש טובי\project\Dal\bin\Debug\EntityFramework.dll
+E:\חדש טובי\project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\חדש טובי\project\Dal\bin\Debug\EntityFramework.xml
+E:\חדש טובי\project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\חדש טובי\project\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+E:\חדש טובי\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+E:\חדש טובי\project\Dal\obj\Debug\Dal.csproj.CopyComplete
+E:\חדש טובי\project\Dal\obj\Debug\Dal.dll
+E:\חדש טובי\project\Dal\obj\Debug\Dal.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\OnegShabat.mdf
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\OnegShabat_log.ldf
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\Dal.dll.config
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\Dal.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\Dal.pdb
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\obj\Debug\Dal.dll
+C:\Users\HOME\Desktop\חדש טובי\project\Dal\obj\Debug\Dal.pdb

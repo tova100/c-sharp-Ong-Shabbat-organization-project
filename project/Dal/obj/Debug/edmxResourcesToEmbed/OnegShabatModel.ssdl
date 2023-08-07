@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OnegShabatModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cities">
+    <Key>
+      <PropertyRef Name="CitiesId" />
+    </Key>
+    <Property Name="CitiesId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cookeres">
+    <Key>
+      <PropertyRef Name="CookerId" />
+    </Key>
+    <Property Name="CookerId" Type="char" MaxLength="9" Nullable="false" />
+    <Property Name="Firstname" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Lastname" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="42" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="KashroutId" Type="int" />
+    <Property Name="CityId" Type="int" />
+    <Property Name="Street" Type="nvarchar" MaxLength="15" />
+    <Property Name="Apartment number" Type="int" />
+    <Property Name="KindOfFood" Type="nvarchar" MaxLength="20" />
+    <Property Name="driverId" Type="char" MaxLength="9" />
+  </EntityType>
+  <EntityType Name="Donors">
+    <Key>
+      <PropertyRef Name="Donorsid" />
+    </Key>
+    <Property Name="Donorsid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Firstname" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Lastname" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="15" />
+    <Property Name="CardValidity" Type="int" />
+    <Property Name="CreditCardNumber" Type="varchar" MaxLength="20" />
+    <Property Name="DonationAmount" Type="money" />
+  </EntityType>
+  <EntityType Name="Drivers">
+    <Key>
+      <PropertyRef Name="DriverId" />
+    </Key>
+    <Property Name="DriverId" Type="char" MaxLength="9" Nullable="false" />
+    <Property Name="Firstname" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Lastname" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="CityId" Type="int" />
+  </EntityType>
+  <EntityType Name="Families">
+    <Key>
+      <PropertyRef Name="Familyid" />
+    </Key>
+    <Property Name="Familyid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FamilyName" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="CityId" Type="int" />
+    <Property Name="Street" Type="nvarchar" MaxLength="15" />
+    <Property Name="Apartment number" Type="int" />
+    <Property Name="KashroutId" Type="int" />
+    <Property Name="NumberOfPeople" Type="int" />
+    <Property Name="CookerId" Type="char" MaxLength="9" />
+  </EntityType>
+  <EntityType Name="Kashrouts">
+    <Key>
+      <PropertyRef Name="KashroutId" />
+    </Key>
+    <Property Name="KashroutId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Cookeres__CityId__2D27B809">
+    <End Role="Cities" Type="Self.Cities" Multiplicity="0..1" />
+    <End Role="Cookeres" Type="Self.Cookeres" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cities">
+        <PropertyRef Name="CitiesId" />
+      </Principal>
+      <Dependent Role="Cookeres">
+        <PropertyRef Name="CityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cookeres__driver__2E1BDC42">
+    <End Role="Drivers" Type="Self.Drivers" Multiplicity="0..1" />
+    <End Role="Cookeres" Type="Self.Cookeres" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Drivers">
+        <PropertyRef Name="DriverId" />
+      </Principal>
+      <Dependent Role="Cookeres">
+        <PropertyRef Name="driverId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cookeres__Kashro__2C3393D0">
+    <End Role="Kashrouts" Type="Self.Kashrouts" Multiplicity="0..1" />
+    <End Role="Cookeres" Type="Self.Cookeres" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kashrouts">
+        <PropertyRef Name="KashroutId" />
+      </Principal>
+      <Dependent Role="Cookeres">
+        <PropertyRef Name="KashroutId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Drivers__CityId__29572725">
+    <End Role="Cities" Type="Self.Cities" Multiplicity="0..1" />
+    <End Role="Drivers" Type="Self.Drivers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cities">
+        <PropertyRef Name="CitiesId" />
+      </Principal>
+      <Dependent Role="Drivers">
+        <PropertyRef Name="CityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Families__CityId__30F848ED">
+    <End Role="Cities" Type="Self.Cities" Multiplicity="0..1" />
+    <End Role="Families" Type="Self.Families" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cities">
+        <PropertyRef Name="CitiesId" />
+      </Principal>
+      <Dependent Role="Families">
+        <PropertyRef Name="CityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Families__Cooker__32E0915F">
+    <End Role="Cookeres" Type="Self.Cookeres" Multiplicity="0..1" />
+    <End Role="Families" Type="Self.Families" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cookeres">
+        <PropertyRef Name="CookerId" />
+      </Principal>
+      <Dependent Role="Families">
+        <PropertyRef Name="CookerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Families__Kashro__31EC6D26">
+    <End Role="Kashrouts" Type="Self.Kashrouts" Multiplicity="0..1" />
+    <End Role="Families" Type="Self.Families" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kashrouts">
+        <PropertyRef Name="KashroutId" />
+      </Principal>
+      <Dependent Role="Families">
+        <PropertyRef Name="KashroutId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OnegShabatModelStoreContainer">
+    <EntitySet Name="Cities" EntityType="Self.Cities" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cookeres" EntityType="Self.Cookeres" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Donors" EntityType="Self.Donors" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Drivers" EntityType="Self.Drivers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Families" EntityType="Self.Families" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kashrouts" EntityType="Self.Kashrouts" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Cookeres__CityId__2D27B809" Association="Self.FK__Cookeres__CityId__2D27B809">
+      <End Role="Cities" EntitySet="Cities" />
+      <End Role="Cookeres" EntitySet="Cookeres" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cookeres__driver__2E1BDC42" Association="Self.FK__Cookeres__driver__2E1BDC42">
+      <End Role="Drivers" EntitySet="Drivers" />
+      <End Role="Cookeres" EntitySet="Cookeres" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cookeres__Kashro__2C3393D0" Association="Self.FK__Cookeres__Kashro__2C3393D0">
+      <End Role="Kashrouts" EntitySet="Kashrouts" />
+      <End Role="Cookeres" EntitySet="Cookeres" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Drivers__CityId__29572725" Association="Self.FK__Drivers__CityId__29572725">
+      <End Role="Cities" EntitySet="Cities" />
+      <End Role="Drivers" EntitySet="Drivers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Families__CityId__30F848ED" Association="Self.FK__Families__CityId__30F848ED">
+      <End Role="Cities" EntitySet="Cities" />
+      <End Role="Families" EntitySet="Families" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Families__Cooker__32E0915F" Association="Self.FK__Families__Cooker__32E0915F">
+      <End Role="Cookeres" EntitySet="Cookeres" />
+      <End Role="Families" EntitySet="Families" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Families__Kashro__31EC6D26" Association="Self.FK__Families__Kashro__31EC6D26">
+      <End Role="Kashrouts" EntitySet="Kashrouts" />
+      <End Role="Families" EntitySet="Families" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OnegShabatModelStoreContainer" CdmEntityContainer="OnegShabatEntities">
+    <EntitySetMapping Name="Cities">
+      <EntityTypeMapping TypeName="OnegShabatModel.City">
+        <MappingFragment StoreEntitySet="Cities">
+          <ScalarProperty Name="CitiesId" ColumnName="CitiesId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cookeres">
+      <EntityTypeMapping TypeName="OnegShabatModel.Cookere">
+        <MappingFragment StoreEntitySet="Cookeres">
+          <ScalarProperty Name="CookerId" ColumnName="CookerId" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="KashroutId" ColumnName="KashroutId" />
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="Apartment_number" ColumnName="Apartment number" />
+          <ScalarProperty Name="KindOfFood" ColumnName="KindOfFood" />
+          <ScalarProperty Name="driverId" ColumnName="driverId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Donors">
+      <EntityTypeMapping TypeName="OnegShabatModel.Donor">
+        <MappingFragment StoreEntitySet="Donors">
+          <ScalarProperty Name="Donorsid" ColumnName="Donorsid" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="CardValidity" ColumnName="CardValidity" />
+          <ScalarProperty Name="CreditCardNumber" ColumnName="CreditCardNumber" />
+          <ScalarProperty Name="DonationAmount" ColumnName="DonationAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Drivers">
+      <EntityTypeMapping TypeName="OnegShabatModel.Driver">
+        <MappingFragment StoreEntitySet="Drivers">
+          <ScalarProperty Name="DriverId" ColumnName="DriverId" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Families">
+      <EntityTypeMapping TypeName="OnegShabatModel.Family">
+        <MappingFragment StoreEntitySet="Families">
+          <ScalarProperty Name="Familyid" ColumnName="Familyid" />
+          <ScalarProperty Name="FamilyName" ColumnName="FamilyName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="CityId" ColumnName="CityId" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="Apartment_number" ColumnName="Apartment number" />
+          <ScalarProperty Name="KashroutId" ColumnName="KashroutId" />
+          <ScalarProperty Name="NumberOfPeople" ColumnName="NumberOfPeople" />
+          <ScalarProperty Name="CookerId" ColumnName="CookerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kashrouts">
+      <EntityTypeMapping TypeName="OnegShabatModel.Kashrout">
+        <MappingFragment StoreEntitySet="Kashrouts">
+          <ScalarProperty Name="KashroutId" ColumnName="KashroutId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
